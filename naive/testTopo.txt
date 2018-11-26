@@ -1,0 +1,10 @@
+underwear shoes
+underwear pants
+pants shoes
+socks shoes
+pants belt
+shirt belt
+shirt lingdai
+belt jacket
+lingdai jacket
+watch NULL
