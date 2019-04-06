@@ -1,4 +1,4 @@
-;;generate the combinations whose number is r and value
+;;generate the combinations whose number of values is r and value
 ;;is between 1 and n
 (define (print lat)
   (cond ((null? lat) 'done)

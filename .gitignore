@@ -1,0 +1,4 @@
+*.vscode
+
+#scheme/racket
+*.bak
